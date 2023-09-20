@@ -1,0 +1,16 @@
+ 1234  git switch --create like-avoc efee0266~1
+ 1235  git switch --create new-like-avoc efee0266~1
+ 1236  git graph
+ 1237  history > done_on_20_sep_2023.txt
+ 1238  ls -lh
+ 1239  git switch like-avoc
+ 1240  git reset --hard 966f0a4
+ 1241  git graph
+ 1242  git status
+ 1243  git merge new-like-avoc
+ 1244  git graph
+ 1245  cat ex_bisect.sh
+ 1246  git branch -d new-like_avoc
+ 1247  git branch -d new-like-avoc
+ 1248  git graph
+ 1249  cat ex_bisect.sh
